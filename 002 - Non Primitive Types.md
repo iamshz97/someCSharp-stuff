@@ -72,7 +72,6 @@ string path = @"D:\Game Files\SteamLibrary\steamapps";
 **Enum**
 
 ```Csharp
-
 public enum DaysOfWeek
 {
     Monday = 1,
@@ -86,5 +85,6 @@ int monday = DaysOfWeek.Monday;
 string day1 = DaysofWeek1
 
 /* output: Monday */
-
 ```
+
+****
